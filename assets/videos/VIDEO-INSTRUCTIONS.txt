@@ -1,0 +1,15 @@
+Place anonymized MP4 files here, then edit ../../media.js.
+
+Suggested names:
+real-coffee.mp4
+sim-coffee.mp4
+sim-box.mp4
+sim-mug.mp4
+
+Use H.264 video and AAC audio for broad browser support.
+Remove author or institution names, lab logos, faces, personal links,
+identifying speech and embedded metadata before upload.
+Optional English WebVTT captions can be placed beside each video.
+
+No videos were supplied with the source paper. The current page intentionally
+shows still images and explicit video placeholders, without broken video URLs.
